@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-  <rect width="16" height="16" rx="2" fill="#8A5FFF" />
-  <path d="M7.398 9.091h-3.58L10.364 2 8.602 6.909h3.58L5.636 14l1.762-4.909Z" fill="#fff" />
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>favicon</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAARdQTFRF/v7+1uL+j7P+aZn+X5P+1+P+e6X+Xo7+jrD+XpL+aJn+YZT+YJP+XY3+bp3+fqT+bJv+ssn+iK7+uc7+1eL+apr+ZZf+r8f++fr+q8b+YpH+psL+9vj+8fX+gan+YZD+n7v+9Pf+////zNv+aJX+l7j+8PT++/z+o77+kLT+7PL+6/H+eaT+irD+5+7+xdf+YpX+gqf+4er+t87+h67+hq3+faf+3Ob+9vn+8vX+u9H+d6D+0N7+dKH+c53+z93+1OD+8vb+3ej+fqf+4ur+g6v+6O/+iq3+eKD+7fP+kbT+8PP+mLf+zdz+9fj+oL7+9/n+qMT+Y5X+qsX+ZZP+utD+Z5j+ia/+tMz+f6j+b53+e6L+fKb+Mi5PUgAAAVZJREFUeJx9k71LA0EQxed5Dncnfl0j6IEc8TQE1EILKxFbQaz0fxTsrlCs0igWIjYWUSORkEaLCAYul1XWXcXLfWSzxS6778fOzsw+ENSg0UNKS4CBb4NOZEkJB8KoE3GCqUH52EY/jYLJkuyqoClAZYBtQMRmgKFu6JIRsOZU1u9kBNjTZenGRsDXOjrCBDiL+GK8ZiuTB1ZVAVw0TQCH6BHNoKE3ogy4IT7U4uFFzSutnigAvPGX3sJvb/FUBHirMTuMtoRbkQ9h7aA91JfFXeENPJjf1A2Sb3oX4DpN5B+YDppqqUjdhQpuRjSL9VSVn0Qh6pk/lisU77VjquIyc5QHXF+KGup9E8B+7WEd9x0yAa4nt4FzYQTo6EruRgUTZAFP7iMqmiDbrANcJCWTZADnEFFc1AlhKwVkUpKVcSbssdYLwCdnY8x7fAr10R6N9l97Fj9ERWK8Er/dlgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
 </svg>
